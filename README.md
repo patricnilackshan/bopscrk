@@ -363,6 +363,10 @@ bopscrk: [Github](https://github.com/r3nt0n/bopscrk) - [Pypi](https://pypi.org/p
 
 <!-- LEGAL DISCLAIMER -->
 ## Legal disclaimer
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=patricnilackshan.bopscrk" />
+
+
 This tool is created for the sole purpose of security awareness and education, it should not be used against systems that you do not have permission to test/attack. The author is not responsible for misuse or for any damage that you may cause. You agree that you use this software at your own risk.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
